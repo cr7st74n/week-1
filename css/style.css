@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lato' ,sans-serif;
+    
+}
+
+body{
+    background: rgb(88, 26, 203);
+}
+a{
+    color: bisque;
+    text-decoration:none;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+li{
+   font-size: 18px;
+   display: inline; 
+}
+
+#section-1, #section-2{
+    font-size: 14px;
+    background-color: cornflowerblue;
+    color: blue;
+}
+
+#section-2{
+
+}
+
+section span{
+    color: orange;
+}
